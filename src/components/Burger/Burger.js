@@ -1,7 +1,6 @@
 import React from "react";
 import styles from "./Burger.module.css";
 import BurgerIngredient from "./BurgerIngredient/BurgerIngredient";
-import { element, array } from "prop-types";
 
 const Burger = props => {
   /* Transform the keys of an object into an array
@@ -30,8 +29,6 @@ const Burger = props => {
     .reduce((accumulator, val) => {
       return accumulator.concat(val);
     }, []);
-
-  console.log(transformedIngredients);
 
   return (
     <div className={styles.Burger}>
