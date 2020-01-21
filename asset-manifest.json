@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/burger-Builder-App-React/static/css/main.07d6bca8.chunk.css",
+    "main.js": "/burger-Builder-App-React/static/js/main.c236e668.chunk.js",
+    "main.js.map": "/burger-Builder-App-React/static/js/main.c236e668.chunk.js.map",
+    "runtime-main.js": "/burger-Builder-App-React/static/js/runtime-main.9602f412.js",
+    "runtime-main.js.map": "/burger-Builder-App-React/static/js/runtime-main.9602f412.js.map",
+    "static/js/2.634c747e.chunk.js": "/burger-Builder-App-React/static/js/2.634c747e.chunk.js",
+    "static/js/2.634c747e.chunk.js.map": "/burger-Builder-App-React/static/js/2.634c747e.chunk.js.map",
+    "index.html": "/burger-Builder-App-React/index.html",
+    "precache-manifest.3e3157a44331fca12eabe886b179dba0.js": "/burger-Builder-App-React/precache-manifest.3e3157a44331fca12eabe886b179dba0.js",
+    "service-worker.js": "/burger-Builder-App-React/service-worker.js",
+    "static/css/main.07d6bca8.chunk.css.map": "/burger-Builder-App-React/static/css/main.07d6bca8.chunk.css.map",
+    "static/js/2.634c747e.chunk.js.LICENSE": "/burger-Builder-App-React/static/js/2.634c747e.chunk.js.LICENSE",
+    "static/media/burger-logo.png": "/burger-Builder-App-React/static/media/burger-logo.b8503d26.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9602f412.js",
+    "static/js/2.634c747e.chunk.js",
+    "static/css/main.07d6bca8.chunk.css",
+    "static/js/main.c236e668.chunk.js"
+  ]
+}
