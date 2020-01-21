@@ -1,6 +1,7 @@
 import React from "react";
 import Button from "../../UI/Button/Button";
 
+// We have to opti OrderSummary because it rerender even though we don't see it
 const OrderSummary = props => {
   const ingredientsSummary = Object.keys(props.ingredients).map(igKey => {
     return (
@@ -10,6 +11,7 @@ const OrderSummary = props => {
       </li>
     );
   });
+
   return (
     <React.Fragment>
       <h3>Your Order</h3>
